@@ -1,4 +1,4 @@
-# Instagram Clone App
+# 2022 Kotlin Programming Project - Instagram Clone App
 
 ## 개발 요소
 Intent, Fragment, Recyclerview, Firebase 사용
